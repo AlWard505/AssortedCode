@@ -1,0 +1,220 @@
+
+
+
+$blue jazz$
+ Seeds cost 30g
+\ Takes 7 days to grow
+\ Grows in Spring
+\ Sells for;
+\ [Base 50g][Silver 62g][Gold 75g]
+\ With Tiller Profession(+10% sell price);
+\ [Base 55g][Silver 68g][Gold 82g]
+\ Gold per day is 2.86g assuming they're all base quality
+\ Blue Jazz is loved by 
+\ Blue Jazz is liked by Abigail, Alex, Caroline, Demetrius, Dwarf, Elliott, Emily, Evelyn, Gus, Haley, Harvey, Jas, Jodi, Kent, Krobus, Leah, Lewis, Linus, Marnie, Maru, Pam, Penny, Pierre, Robin, Sam, Sandy, Shane, Vincent, Willy, Wizard, 
+\ Blue Jazz is neutrally accepted by 
+\ Blue Jazz is disliked by Clint, George, Sebastian, 
+\ Blue Jazz is hated by 
+/ Blue Jazz is used when making Lucky Lunch
+$cauliflower$
+ Seeds cost 80g
+\ Takes 12 days to grow
+\ Grows in Spring
+\ Sells for;
+\ [Base 175g][Silver 218g][Gold 262g]
+\ With Tiller Profession(+10% sell price);
+\ [Base 192g][Silver 240g][Gold 288g]
+\ Gold per day is 7.92g assuming they're all base quality
+\ Artisan version;
+\ [Juice 393g][Pickled 400g]
+\ With Artisan Profession(+40% sell price);
+\ [Juice 550g][Pickled 560g]
+\ Cauliflower is loved by Maru, 
+\ Cauliflower is liked by Alex, Caroline, Clint, Demetrius, Dwarf, Elliott, Emily, Evelyn, George, Gus, Harvey, Jodi, Kent, Krobus, Leah, Lewis, Linus, Marnie, Pam, Penny, Pierre, Robin, Sandy, Sebastian, Shane, Willy, Wizard,
+\ Cauliflower is neutrally accepted by 
+\ Cauliflower is disliked by Abigail, Haley, Jas, Sam, Vincent, 
+\ Cauliflower is hated by 
+/ Cauliflower is used when making Cheese Cauliflower
+$garlic$
+ Seeds cost 40g
+\ Takes 4 days to grow
+\ Grows in Spring
+\ Sells for;
+\ [Base 60g][Silver 75g][Gold 90g]
+\ With Tiller Profession(+10% sell price);
+\ [Base 66g][Silver 82g][Gold 99g]
+\ Gold per day is 5g assuming they're all base quality
+\ Artisan version;
+\ [Juice 135g][Pickled 170g]
+\ With Artisan Profession(+40% sell price);
+\ [Juice 189g][Pickled 238g]
+\ Garlic is loved by 
+\ Garlic is liked by Caroline, Clint, Demetrius, Dwarf, Elliott, Emily, George, Gus, Harvey, Kent, Krobus, Leah, Lewis, Linus, Marnie, Maru, Pam, Penny, Robin, Sandy, Sebastian, Shane, Willy, Wizard, 
+\ Garlic is neutrally accepted by 
+\ Garlic is disliked by Abigail, Haley, Jas, Jodi, Sam, Vincent, 
+\ Garlic is hated by Evelyn, Pierre, 
+\ Garlic is used when making Escargot
+\ Garlic is used when making Fiddlehead Risotto
+/ Garlic is used when making Oil of Garlic
+$kale$
+ Seeds cost 70g
+\ Takes 6 days to grow
+\ Grows in Spring
+\ Sells for;
+\ [Base 110g][Silver 137g][Gold 165g]
+\ With Tiller Profession(+10% sell price);
+\ [Base 121g][Silver 151g][Gold 181g]
+\ Gold per day is 6.67g assuming they're all base quality
+\ Artisan version;
+\ [Juice 247g][Pickled 270g]
+\ With Artisan Profession(+40% sell price);
+\ [Juice 345g][Pickled 378g]
+\ Kale is loved by 
+\ Kale is liked by Alex, Caroline, Clint, Demetrius, Dwarf, Elliott, Emily, Evelyn, George, Gus, Harvey, Jodi, Kent, Krobus, Leah, Lewis, Linus, Marnie, Maru, Pam, Penny, Pierre, Robin, Sandy, Sebastian, Shane, Willy, Wizard, 
+\ Kale is neutrally accepted by 
+\ Kale is disliked by Abigail, Haley, Jas, Sam, Vincent, 
+\ Kale is hated by 
+\ Kale is used when making Salmon Dinner
+/ Kale is used when making Stir Fry
+$parsnip$
+ Seeds cost 20g
+\ Takes 4 days to grow
+\ Grows in Spring
+\ Sells for;
+\ [Base 35g][Silver 43g][Gold 52g]
+\ With Tiller Profession(+10% sell price);
+\ [Base 38g][Silver 47g][Gold 57g]
+\ Gold per day is 3.75g assuming they're all base quality
+\ Artisan version;
+\ [Juice 78g][Pickled 120g]
+\ With Artisan Profession(+40% sell price);
+\ [Juice 109g][Pickled 168g]
+\ Parsnip is loved by Pam, 
+\ Parsnip is liked by Alex, Caroline, Clint, Demetrius, Dwarf, Elliott, Emily, Evelyn, George, Gus, Harvey, Jodi, Kent, Krobus, Leah, Lewis, Linus, Marnie, Maru, Penny, Pierre, Robin, Sandy, Sebastian, Shane, Willy, Wizard, 
+\ Parsnip is neutrally accepted by 
+\ Parsnip is disliked by Abigail, Haley, Jas, Sam, Vincent, 
+\ Parsnip is hated by 
+\ Parsnip is used when making Farmer's Lunch
+/ Parsnip is used when making Parsnip Soup
+$potato$
+ Seeds cost 50g
+\ Takes 6 days to grow
+\ Grows in Spring
+\ Sells for;
+\ [Base 80g][Silver 100g][Gold 120g]
+\ With Tiller Profession(+10% sell price);
+\ [Base 88g][Silver 110g][Gold 132g]
+\ Gold per day is 5g assuming they're all base quality
+\ Artisan version;
+\ [Juice 180g][Pickled 210g]
+\ With Artisan Profession(+40% sell price);
+\ [Juice 252g][Pickled 294g]
+\ Potato is loved by 
+\ Potato is liked by Alex, Caroline, Clint, Demetrius, Dwarf, Elliott, Emily, Evelyn, George, Gus, Harvey, Jodi, Kent, Krobus, Leah, Lewis, Linus, Marnie, Maru, Pam, Penny, Pierre, Robin, Sandy, Sebastian, Shane, Willy, Wizard, 
+\ Potato is neutrally accepted by 
+\ Potato is disliked by Abigail, Haley, Jas, Sam, Vincent, 
+\ Potato is hated by 
+/ Potato is used when making Hashbrowns
+$rhubarb$
+ Seeds cost 100g
+\ Takes 13 days to grow
+\ Grows in Spring
+\ Sells for;
+\ [Base 220g][Silver 275g][Gold 330g]
+\ With Tiller Profession(+10% sell price);
+\ [Base 242g][Silver 302g][Gold 363g]
+\ Gold per day is 9.23g assuming they're all base quality
+\ Artisan version;
+\ [Base wine 660g][Silver wine 825g][Gold wine 990g][Iridium wine 1320g][jelly 490g]
+\ With Artisan Profession(+40% sell price);
+\ [Base wine 923g][Silver wine 1153g][Gold wine 1384g][Iridium wine 1846g][jelly 686g]
+\ Rhubarb is loved by 
+\ Rhubarb is liked by Demetrius, Elliott, Harvey, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Shane, 
+\ Rhubarb is neutrally accepted by Alex, Caroline, Clint, Dwarf, Emily, Evelyn, George, Gus, Krobus, Lewis, Marnie, Maru, Penny, Pierre, Sam, Sebastian, Willy, Wizard, 
+\ Rhubarb is disliked by Abigail, Haley, Jas, Vincent, 
+\ Rhubarb is hated by 
+/ Rhubarb is used when making Rhubarb Pie
+$tulip$
+ Seeds cost 20g
+\ Takes 6 days to grow
+\ Grows in Spring
+\ Sells for;
+\ [Base 30g][Silver 37g][Gold 45g]
+\ With Tiller Profession(+10% sell price);
+\ [Base 33g][Silver 41g][Gold 49g]
+\ Gold per day is 1.67g assuming they're all base quality
+\ Tulip is loved by Evelyn, 
+\ Tulip is liked by Abigail, Alex, Caroline, Demetrius, Dwarf, Elliott, Emily, Gus, Haley, Harvey, Jas, Jodi, Kent, Krobus, Leah, Lewis, Linus, Marnie, Maru, Pam, Penny, Pierre, Robin, Sam, Sandy, Shane, Vincent, Willy, Wizard, 
+\ Tulip is neutrally accepted by 
+\ Tulip is disliked by Clint, George, Sebastian, 
+\ Tulip is hated by 
+$green bean$
+ Seeds cost 60g
+\ Takes 10 days to grow
+\ Grows in spring
+\ Sells for;
+\ [Base 40g][Silver 50g][Gold 60g]
+\ With Tiller Profession(+10% sell price);
+\ [Base 44g][Silver 55g][Gold 66g]
+\ Gold per day is 7.2g assuming they're all base quality
+\ Artisan version;
+\ [Juice 90g][Pickled 130g]
+\ With Artisan Profession(+40% sell price);
+\ [Juice 126g][Pickled 182g]
+\ Green Bean is loved by 
+\ Green Bean is liked by Alex, Caroline, Clint, Demetrius, Dwarf, Elliott, Emily, Evelyn, George, Gus, Harvey, Jodi, Kent, Krobus, Leah, Lewis, Linus, Marnie, Maru, Pam, Penny, Pierre, Robin, Sandy, Sebastian, Shane, Willy, Wizard,
+\ Green Bean is neutrally accepted by 
+\ Green Bean is disliked by Abigail, Haley, Jas, Sam, Vincent, 
+\ Green Bean is hated by 
+/ Green Bean is used when making Bean Hotpot
+$strawberry$
+ Seeds cost 100g
+\ Takes 8 days to grow
+\ Grows in Spring
+\ Sells for;
+\ [Base 120g][Silver 150g][Gold 80g]
+\ With Tiller Profession(+10% sell price);
+\ [Base 132g][Silver 65g][Gold 198g]
+\ Gold per day is 20.83g assuming they're all base quality
+\ Artisan version;
+\ [Base wine 360g][Silver wine 450g][Gold wine 540g][Iridium wine 720g][jelly 290g]
+\ With Artisan Profession(+40% sell price);
+\ [Base wine 503g][Silver wine 628g][Gold wine 754g][Iridium wine 1006g][jelly 406g]
+\ Strawberry is loved by Demetrius, Maru, 
+\ Strawberry is liked by Elliott, Harvey, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Shane,
+\ Strawberry is neutrally accepted by  Alex, Caroline, Clint, Dwarf, Emily, Evelyn, George, Gus, Krobus, Lewis, Marnie, Penny, Pierre, Sam, Sebastian, Willy, Wizard, 
+\ Strawberry is disliked by Abigail, Haley, Jas, Vincent, 
+\ Strawberry is hated by 
+$coffee bean$
+ Seeds cost 2500g
+\ Takes 10 days to grow
+\ Grows in Spring and Summer
+\ Sells for;
+\ [Base 15g][Silver 18g][Gold 22g]
+\ Gold per day is 20.77g assuming they're all base quality
+\ Coffee Bean is loved by 
+\ Coffee Bean is liked by 
+\ Coffee Bean is neutrally accepted by 
+\ Coffee Bean is disliked by Alex, Caroline, Clint, Demetrius, Dwarf, Elliott, Emily, Evelyn, George, Gus, Haley, Harvey, Jas, Jodi, Kent, Krobus, Leah, Lewis, Linus, Marnie, Maru, Pam, Penny, Pierre, Robin, Sam, Sandy, Sebastian, Shane, Vincent, Willy, Wizard, 
+\ Coffee Bean is hated by 
+/ Coffee Bean is used when making Coffee
+$melon$
+ Seeds cost 80g
+\ Takes 12 days to grow
+\ Grows in Summer
+\ Sells for;
+\ [Base 250g][Silver 312g][Gold 375g]
+\ With Tiller Profession(+10% sell price);
+\ [Base 275g][Silver 343g][Gold 412g]
+\ Gold per day is 14.17g assuming they're all base quality
+\ Artisan version;
+\ [Base wine 750g][Silver wine 937g][Gold wine 1125g][Iridium wine 1500g][jelly 550g]
+\ With Artisan Profession(+40% sell price);
+\ [Base wine 1050g][Silver wine 1312g][Gold wine 1575g][Iridium wine 2100g][jelly 770g]
+\ Melon is loved by Penny, 
+\ Melon is liked by Demetrius, Elliott, Harvey, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Shane, 
+\ Melon is neutrally accepted by Alex, Caroline, Clint, Dwarf, Emily, Evelyn, George, Gus, Krobus, Lewis, Marnie, Maru, Pierre, Sam, Sebastian, Willy, Wizard, 
+\ Melon is disliked by Abigail, Haley, Jas, Vincent, 
+\ Melon is hated by 
+\ Melon is used when making Fruit Salad
+/ Melon is used when making Pink Cake
